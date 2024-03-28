@@ -8,6 +8,21 @@
  *
  * Description: refer to the first commented out line
  * (+)
+ *
+ * Return: returns the height of the tree or
+ * it returns 0 is tree is NULL
+ */
+
+#include "binary_trees.h"
+
+/**
+ * binary_tree_height - this function creates a binary tree node.
+ *
+ * @tree: this is a pointer to the root node of the tree to measure
+ * the height;
+ *
+ * Description: refer to the first commented out line
+ * (+)
  * When created a node does not have any child
  *
  * Return: returns the height of the tree or
