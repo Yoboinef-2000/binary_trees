@@ -8,8 +8,6 @@
  * the size
  *
  * Description: refer to the first commented out line
- * (+)
- * When created a node does not have any child
  *
  * Return: returns the size of the tree or
  * it returns 0 is tree is NULL
